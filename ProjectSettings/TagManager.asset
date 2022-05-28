@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Portal
+  - SimObstacle
+  - SimObstacleZone
+  - SimWaitZone
+  - SimSlowZone
   layers:
   - Default
   - TransparentFX
@@ -19,9 +23,9 @@ TagManager:
   - Teleport
   - Hidden
   - interactable
-  - 
-  - 
-  - 
+  - CameraUI
+  - Cursor
+  - Navigation
   - 
   - 
   - 
@@ -39,9 +43,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NameTag
+    uniqueID: 2495537585
+    locked: 0
+  - name: NameText
+    uniqueID: 3082004247
+    locked: 0
   - name: 'UI '
     uniqueID: 2347016275
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Menu
+    uniqueID: 2970309299
+    locked: 0
+  - name: Raycast
+    uniqueID: 356894325
+    locked: 0
+  - name: 2D Cursor
+    uniqueID: 3950720319
+    locked: 0
+  - name: SceneTransition
+    uniqueID: 2831547079
     locked: 0

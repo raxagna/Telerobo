@@ -18,11 +18,17 @@ EditorBuildSettings:
     path: Assets/Origins/Scene/Scene 3.unity
     guid: 7b0889d7f277c3248921be66092a1c5d
   - enabled: 1
-    path: Assets/Ben/Scenes/WebRTC-Test.unity
-    guid: f2872d10ff545cc46be5b6084676b15f
-  - enabled: 1
-    path: Assets/Ben/Scenes/Nex-Test.unity
+    path: Assets/Origins/Scene/NavTest.unity
+    guid: 414802f707ba81c458c9527de5051137
+  - enabled: 0
+    path: Assets/_Ben/Scenes/SkippyControl-Test.unity
     guid: 0b09323a863ccbc4d8a93c95946c78f6
+  - enabled: 0
+    path: Assets/Origins/Scene/Simulation Scene.unity
+    guid: 349d7e9fcb7f3f64f85e4a17839fa372
+  - enabled: 0
+    path: Assets/_Ben/Scenes/SkippyControlTestAgora.unity
+    guid: 76ce97e683fe795488a71273a721034e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 943d4b8fcfabde9489e0b5dbbae4fdcc, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 7c5884ee633eed84c88d98b1a315572f, type: 2}
